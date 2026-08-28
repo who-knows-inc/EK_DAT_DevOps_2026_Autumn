@@ -8,7 +8,7 @@ GROUP_REPOS = [
         "stack": [],
         "documentation": [],
         "sla": "",
-    }
+    },
 
     {
     "name": "MaxiKnows",
