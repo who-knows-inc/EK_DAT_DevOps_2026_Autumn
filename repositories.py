@@ -2,7 +2,7 @@ GROUP_REPOS = [
 
 {
     "name": "WhoKnowsXD",
-    "gitLinks": ["https://github.com/WeKnowXD"],
+    "gitLinks": ["https://github.com/WeKnowXD/WeKnowXD_Project"],
     "backend": "",
     "frontend": "",
     "monitoring": "",
