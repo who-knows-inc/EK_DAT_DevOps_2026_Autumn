@@ -30,5 +30,14 @@ GROUP_REPOS = [
         "documentation": [],
         "sla": "",
     },
-
+    {
+    "name": "MaxiKnows",
+    "gitLinks": ["https://github.com/maxiknows/maxi-knows.git"],
+    "backend": "",
+    "frontend": "",
+    "monitoring": "",
+    "stack": [],
+    "documentation": [],
+    "sla": "",
+    }
 ]
