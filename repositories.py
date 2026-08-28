@@ -1,4 +1,5 @@
-{
+GROUP_REPOS = [
+        {
     "name": "JacobMagnusBardie",
     "gitLinks": ["https://github.com/JacobMagnusBardie/WhoKnowsWho"],
     "backend": "",
@@ -8,3 +9,4 @@
     "documentation": [],
     "sla": "",
 }
+]
