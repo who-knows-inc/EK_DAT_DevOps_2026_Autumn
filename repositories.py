@@ -39,5 +39,15 @@ GROUP_REPOS = [
     "stack": [],
     "documentation": [],
     "sla": "",
-    }
+    },
+    {
+    "name": "JakobMagnusBardie",
+    "gitLinks": ["https://github.com/JacobMagnusBardie/WhoKnowsWho"],
+    "backend": "",
+    "frontend": "",
+    "monitoring": "",
+    "stack": [],
+    "documentation": [],
+    "sla": "",
+}
 ]
