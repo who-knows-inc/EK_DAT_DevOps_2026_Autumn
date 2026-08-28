@@ -1,7 +1,7 @@
 GROUP_REPOS = [
     {
-    "name": "",
-    "gitLinks": [""],
+    "name": "Maxi Knows",
+    "gitLinks": ["https://github.com/maxiknows"],
     "backend": "",
     "frontend": "",
     "monitoring": "",
