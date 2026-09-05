@@ -69,5 +69,15 @@ GROUP_REPOS = [
         "stack": [],
         "documentation": [],
         "sla": "",
-    }
+    },
+    {
+    "name": "devops-gruppe-2",
+    "gitLinks": ["https://github.com/devops-gruppe-2/test"],
+    "backend": "",
+    "frontend": "",
+    "monitoring": "",
+    "stack": [],
+    "documentation": [],
+    "sla": "",
+},
 ]
