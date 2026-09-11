@@ -187,6 +187,8 @@ link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/01._Assignments/0
 
 link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/01._Assignments/02._After/deploy.md[Deploy]
 
+link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/01._Assignments/02._After/visual_guide_azure_vm.md[Visual Guide to Azure VM Deployment]
+
 a|
 Understands the terminology surrounding Github Actions such as workflows, runners, jobs, steps, and actions.
 
