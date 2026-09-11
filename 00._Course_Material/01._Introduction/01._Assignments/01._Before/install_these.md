@@ -53,6 +53,8 @@ You might need to run this on Windows in an admin Powershell terminal to run Pyt
 $ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
 ```
 
+Write `pyth` in the terminal and hit tab. It should autocomplete. In Windows it might be called `python.exe`.
+
 ---
 
 ### Mac users only

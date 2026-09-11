@@ -16,4 +16,4 @@ Create a document that lists all the problems in the provided codebase. The list
 
 While the problems of the legacy code doesn’t relate to your final product, it is still a topic of interest during the exam to see how you mitigated these problems. 
 
-Problems includes the styling too. For your product, the HTML tag types, classes and ids should not be changed, though you can add classes / ids.
+Problems includes the styling too.

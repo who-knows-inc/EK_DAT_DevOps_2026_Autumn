@@ -143,37 +143,37 @@ Can create a `.env` file and import/use the environment variables in the group's
 | 3
 | Sept. 11th
 a|
-Introduction
+// Introduction
 
-GitHub Actions
+// GitHub Actions
 
-GitHub Issues Workflow
+// GitHub Issues Workflow
 
-GitHub Secrets
+// GitHub Secrets
 
-Azure
+// Azure
 
-More Cloud
+// More Cloud
 
-SSH
+// SSH
 
-Deployment Considerations
+// Deployment Considerations
 
-// link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/02._Slides/01._introduction.md[Introduction]
+link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/02._Slides/01._introduction.md[Introduction]
 
-// link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/02._Slides/02._github_actions.md[GitHub Actions]
+link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/02._Slides/02._github_actions.md[GitHub Actions]
 
-// link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/02._Slides/03._github_issues_workflow.md[GitHub Issues Workflow]
+link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/02._Slides/03._github_issues_workflow.md[GitHub Issues Workflow]
 
-// link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/02._Slides/04._github_secrets.md[GitHub Secrets]
+link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/02._Slides/04._github_secrets.md[GitHub Secrets]
 
-// link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/02._Slides/05._azure.md[Azure]
+link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/02._Slides/05._azure.md[Azure]
 
-// link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/02._Slides/06._more_cloud.md[More Cloud]
+link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/02._Slides/06._more_cloud.md[More Cloud]
 
-// link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/02._Slides/07._ssh.md[SSH]
+link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/02._Slides/07._ssh.md[SSH]
 
-// link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/02._Slides/08._deployment_considerations.md[Deployment Considerations]
+link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/02._Slides/08._deployment_considerations.md[Deployment Considerations]
 
 a|
 link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/01._Assignments/01._Before/read_about_github_actions.md[Read about GitHub Actions]
@@ -181,27 +181,93 @@ link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/01._Assignments/0
 link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/01._Assignments/01._Before/github_pr_template.md[GitHub PR template]
 
 a|
-// link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/01._Assignments/02._After/ek_azure.md[EK Azure Resources]
+link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/01._Assignments/02._After/ek_azure.md[EK Azure Resources]
 
-// link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/01._Assignments/02._After/keep_rewriting.md[Keep rewriting]
+link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/01._Assignments/02._After/keep_rewriting.md[Keep rewriting]
 
-// link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/01._Assignments/02._After/deploy.md[Deploy]
+link:00._Course_Material/03._Github_Actions_Cloud_Azure_Deploy/01._Assignments/02._After/deploy.md[Deploy]
 
 a|
-// Understands the terminology surrounding Github Actions such as workflows, runners, jobs, steps, and actions.
+Understands the terminology surrounding Github Actions such as workflows, runners, jobs, steps, and actions.
 
-// Can create a basic Github Action workflow that is triggered by a push and pull request.
+Can create a basic Github Action workflow that is triggered by a push and pull request.
 
-// Understands basic cloud concepts.
+Understands basic cloud concepts.
 
-// Can create a virtual machine in Azure and SSH into it. Can open ports and set the IP address to static.
+Can create a virtual machine in Azure and SSH into it. Can open ports and set the IP address to static.
 
-// Understands the difference between public and private ssh keys.
+Understands the difference between public and private ssh keys.
 
-// Can suggest various deployment strategies and knows the pros and cons of each.
+Can suggest various deployment strategies and knows the pros and cons of each.
 
-// Understands the difference between pull-based and push-based deployment.
+Understands the difference between pull-based and push-based deployment.
 
+
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 4
+| Sept. 18
+a|
+Introduction
+
+Software Quality
+
+CI/CD
+
+Linting
+
+Branching strategies
+
+Cron
+
+// link:00._Course_Material/04._Sofware_Quality_Linting_CI/02._Slides/01._introduction.md[Introduction]
+
+// link:00._Course_Material/04._Sofware_Quality_Linting_CI/02._Slides/02._software_quality.md[Software quality]
+
+// link:00._Course_Material/04._Sofware_Quality_Linting_CI/02._Slides/03._ci_cd.md[CI/CD]
+
+// link:00._Course_Material/04._Sofware_Quality_Linting_CI/02._Slides/04._linting.md[Linting]
+
+// link:00._Course_Material/04._Sofware_Quality_Linting_CI/02._Slides/05._branching_strategies.md[Branching strategies]
+
+// link:00._Course_Material/04._Sofware_Quality_Linting_CI/02._Slides/06._cron.md[Cron]
+
+a|
+link:00._Course_Material/04._Sofware_Quality_Linting_CI/01._Assignments/01._Before/research_git_branching_strategies.md[Research git branching strategies]
+
+link:00._Course_Material/04._Sofware_Quality_Linting_CI/01._Assignments/01._Before/github_issue_template.md[GitHub Issue template]
+
+link:00._Course_Material/04._Sofware_Quality_Linting_CI/01._Assignments/01._Before/create_a_merge_conflict.md[Create a merge conflict]
+
+link:00._Course_Material/04._Sofware_Quality_Linting_CI/01._Assignments/01._Before/define_github_secrets.md[Define GitHub secrets]
+
+
+a|
+// link:00._Course_Material/04._Sofware_Quality_Linting_CI/01._Assignments/02._After/consumer_report.md[Consumer Report!]
+
+// link:00._Course_Material/04._Sofware_Quality_Linting_CI/01._Assignments/02._After/choose_a_git_branching_strategy.md[Choose git branching strategy]
+
+// link:./00._Course_Material/04._Sofware_Quality_Linting_CI/01._Assignments/02._After/branch_protection_rules.md[Branch protection rules]
+
+// link:00._Course_Material/04._Sofware_Quality_Linting_CI/01._Assignments/02._After/software_quality.md[Software Quality]
+
+// link:00._Course_Material/04._Sofware_Quality_Linting_CI/01._Assignments/02._After/linting.md[Linting]
+
+// link:00._Course_Material/04._Sofware_Quality_Linting_CI/01._Assignments/02._After/whoknows_variations_continuous_integration.md[Whoknows_variations - Continuous Integration]
+
+// link:00._Course_Material/04._Sofware_Quality_Linting_CI/01._Assignments/02._After/readme_badges.md[README badges]
+
+a|
+// Understands the importance of software quality and tools to measure it.
+
+// Understands why technical debt occurs and why it's important to avoid.
+
+// Can argue for the importance of linting.
+
+// Knows the difference between linting in a Git Hook vs. a CI/CD pipeline. Can argue for the pros and cons of each.
+
+// Is familiar with different branching strategies.
 
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------

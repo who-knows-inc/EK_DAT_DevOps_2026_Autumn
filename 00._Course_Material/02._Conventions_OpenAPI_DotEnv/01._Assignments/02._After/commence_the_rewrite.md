@@ -56,5 +56,9 @@ You don't have to implement the `/weather` or `/api/weather` routes yet.
 
 As you can see the `/about` page is optional. 
 
+---
 
+## The Frontend Structure
+
+For your product, the HTML tag types, classes and ids should not be changed, though you can add classes / ids.
 
