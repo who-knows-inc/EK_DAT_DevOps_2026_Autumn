@@ -5,7 +5,7 @@ GROUP_REPOS = [
         "backend": "20.91.229.193",
         "frontend": "20.91.229.193",
         "monitoring": "",
-        "stack": [go, SQLlite],
+        "stack": ["go", "SQLlite"],
         "documentation": [],
         "sla": "",
     },
