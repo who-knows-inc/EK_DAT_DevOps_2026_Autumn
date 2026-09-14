@@ -2,10 +2,10 @@ GROUP_REPOS = [
     {
         "name": "JOMS",
         "gitLinks": ["https://github.com/JOMS-inc/JOMSearch.git"],
-        "backend": "",
-        "frontend": "",
+        "backend": "20.91.229.193",
+        "frontend": "20.91.229.193",
         "monitoring": "",
-        "stack": [],
+        "stack": [go, SQLlite],
         "documentation": [],
         "sla": "",
     },
