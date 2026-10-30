@@ -80,10 +80,10 @@ GROUP_REPOS = [
     {
     "name": "devops-gruppe-2",
     "gitLinks": ["https://github.com/devops-gruppe-2/search-engine"],
-    "backend": "http://20.250.11.23:8080/",
-    "frontend": "http://20.250.11.23:8080/",
+    "backend": "http://157.245.66.153/",
+    "frontend": "http://157.245.66.153/",
     "monitoring": "",
-    "stack": [],
+    "stack": ["Go", "Gin", "SQLite", "Docker"],
     "documentation": [],
     "sla": "",
 },
