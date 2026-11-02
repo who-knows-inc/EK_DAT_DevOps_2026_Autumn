@@ -535,21 +535,21 @@ a|
 | 10
 | Nov. 13th
 a|
-// Introduction
+Introduction
 
-// Databases ORM
+Databases ORM
 
-// Migrations
+Migrations
 
-// Backup / Documentation
+Backup / Documentation
 
-// Web scraping / Web crawling
+Web scraping / Web crawling
 
-// Cheerio
+Cheerio
 
-// Beautifulsoup4
+Beautifulsoup4
 
-// Scrapy
+Scrapy
 
 // link:00._Course_Material/10._Databases_ORM_Data_scraping_Web_crawling/02._Slides/01._introduction.md[Introduction]
 
