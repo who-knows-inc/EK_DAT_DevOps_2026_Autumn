@@ -12,8 +12,8 @@ GROUP_REPOS = [
     {
         "name": "visionJAMx",
         "gitLinks": ["https://github.com/visionJAMx/whoknows"],
-        "backend": "http://4.165.140.243:8080/",
-        "frontend": "http://4.165.140.243:8080/",
+        "backend": "https://whoknowsjamx.dk/",
+        "frontend": "https://whoknowsjamx.dk/",
         "monitoring": "",
         "stack": ["Go", "Gin", "SQLite"],
         "documentation": [],
