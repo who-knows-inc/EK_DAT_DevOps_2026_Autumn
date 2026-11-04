@@ -80,8 +80,8 @@ GROUP_REPOS = [
     {
     "name": "devops-gruppe-2",
     "gitLinks": ["https://github.com/devops-gruppe-2/search-engine"],
-    "backend": "http://157.245.66.153/",
-    "frontend": "http://157.245.66.153/",
+    "backend": "https://whoknows-gruppe2.dk/",
+    "frontend": "https://whoknows-gruppe2.dk/",
     "monitoring": "",
     "stack": ["Go", "Gin", "SQLite", "Docker"],
     "documentation": [],
