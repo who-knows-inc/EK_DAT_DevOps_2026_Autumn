@@ -33,11 +33,11 @@ GROUP_REPOS = [
     {
         "name": "MaxiKnows",
         "gitLinks": ["https://github.com/maxiknows/maxi-knows.git"],
-        "backend": "http://40.89.161.196:8080/",
-        "frontend": "http://40.89.161.196:8080/",
+        "backend": "https://maxi-knows.dk",
+        "frontend": "https://maxi-knows.dk",
         "monitoring": "",
         "stack": ["Go", "Go Standard Library", "SQLite"],
-        "documentation": [],
+        "documentation": ["https://github.com/maxiknows/maxi-knows/tree/main/docs"],
         "sla": "",
     },
     
