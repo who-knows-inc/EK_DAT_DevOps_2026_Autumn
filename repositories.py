@@ -2,8 +2,8 @@ GROUP_REPOS = [
     {
         "name": "JOMS",
         "gitLinks": ["https://github.com/JOMS-inc/JOMSearch.git"],
-        "backend": "http://20.91.190.221:8080/",
-        "frontend": "http://20.91.190.221:8080/",
+        "backend": "https://jomsearch.dk/",
+        "frontend": "https://jomsearch.dk/",
         "monitoring": "",
         "stack": ["go", "SQLite"],
         "documentation": [],
@@ -12,8 +12,8 @@ GROUP_REPOS = [
     {
         "name": "visionJAMx",
         "gitLinks": ["https://github.com/visionJAMx/whoknows"],
-        "backend": "http://4.165.140.243:8080/",
-        "frontend": "http://4.165.140.243:8080/",
+        "backend": "https://whoknowsjamx.dk/",
+        "frontend": "https://whoknowsjamx.dk/",
         "monitoring": "",
         "stack": ["Go", "Gin", "SQLite"],
         "documentation": [],
@@ -33,11 +33,11 @@ GROUP_REPOS = [
     {
         "name": "MaxiKnows",
         "gitLinks": ["https://github.com/maxiknows/maxi-knows.git"],
-        "backend": "http://40.89.161.196:8080/",
-        "frontend": "http://40.89.161.196:8080/",
+        "backend": "https://maxi-knows.dk",
+        "frontend": "https://maxi-knows.dk",
         "monitoring": "",
         "stack": ["Go", "Go Standard Library", "SQLite"],
-        "documentation": [],
+        "documentation": ["https://github.com/maxiknows/maxi-knows/tree/main/docs"],
         "sla": "",
     },
     
@@ -80,8 +80,8 @@ GROUP_REPOS = [
     {
     "name": "devops-gruppe-2",
     "gitLinks": ["https://github.com/devops-gruppe-2/search-engine"],
-    "backend": "http://157.245.66.153/",
-    "frontend": "http://157.245.66.153/",
+    "backend": "https://whoknows-gruppe2.dk/",
+    "frontend": "https://whoknows-gruppe2.dk/",
     "monitoring": "",
     "stack": ["Go", "Gin", "SQLite", "Docker"],
     "documentation": [],
