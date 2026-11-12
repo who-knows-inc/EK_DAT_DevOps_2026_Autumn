@@ -4,7 +4,7 @@
 
 **Part of mandatory I.**
 
-**Motivation**: Learn how to generate OpenAPI Specification for your framework and programming language of choice. 
+**Motivation**: Learn how to generate OpenAPI Specification with your framework / programming language of choice. 
 
 ---
 
@@ -12,7 +12,7 @@
 
 You have been provided with the following OpenAPI Specification file [`openapi.json`](./openapi.json). 
 
-It's a must that you should adhere to this specification. You are free to add more routes, though. 
+It's a must that you should adhere to this specification. You are free to add more data to the responses, more response types (303 redirection) and more routes, though. 
 
 You don't have to implement the `/weather` or `/api/weather` routes yet.
 

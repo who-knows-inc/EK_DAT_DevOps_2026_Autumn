@@ -1,0 +1,13 @@
+FROM node
+
+WORKDIR /usr/src/app
+
+# Install nodemon globally
+RUN npm install -g nodemon
+
+COPY package*.json ./
+RUN npm install
+
+COPY . .
+
+CMD nodemon app.js

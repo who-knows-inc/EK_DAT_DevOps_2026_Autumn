@@ -186,4 +186,6 @@ You are permitted to use AI for the course but you still have to understand what
 
 I recommend that you write all documentation yourselves for the highest personal benefit.
 
+You are not allowed to use AI to write your mandatories. The value is in you analyzing and reflecting with your group.
+
 You are not allowed to use AI for the exam report.

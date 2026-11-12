@@ -60,5 +60,14 @@ As you can see the `/about` page is optional.
 
 ## The Frontend Structure
 
-For your product, the HTML tag types, classes and ids should not be changed, though you can add classes / ids.
+Feel free to make changes to the frontend but the following elements, ids and their functionality must remain:
 
+| Path | Element | Selector | Notes |
+|---|---|---|---|
+| `/` | `<input>` | `#search-input` | Always visible |
+| `/` | `<button>` | `#search-button` | Always visible  |
+| `/` | `<a>` | `#nav-login` | Visible when logged out; links to the login page |
+| `/login` | `<input>` | `input[name="username"]` | Takes the username, not the email |
+| `/login` | `<input type="password">` | `input[name="password"]` | |
+| `/login` | `<button>` | `#login-button` | Submits the login form |
+| Page after login | `<a>` | `#nav-logout` | Visible only when logged in |
