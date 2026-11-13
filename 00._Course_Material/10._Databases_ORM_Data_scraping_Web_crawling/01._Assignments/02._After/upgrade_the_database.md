@@ -60,3 +60,5 @@ As opposed to the ORM task setting up a migration tool is a good idea but still 
 To the best of your ability, try to avoid downtime while migrating to a new database.
 
 **Requirement**: What is a requirement is that you must research migration tools and even if you don't use any you should have a clear plan for which you would go with and how it would work.
+
+Remember that the migration tool does not need to be in the same language as your server.
