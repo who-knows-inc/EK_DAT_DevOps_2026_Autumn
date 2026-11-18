@@ -16,7 +16,7 @@ link:00._Course_Material/00._Meta_Course_Material/exam_project_requirements.md[E
 
 link:00._Course_Material/00._Mandatories/mandatory_I.md[Mandatory I]
 
-// link:00._Course_Material/00._Mandatories/mandatory_II.md[Mandatory II]
+link:00._Course_Material/00._Mandatories/mandatory_II.md[Mandatory II]
 
 == Semester Plan
 
@@ -594,29 +594,29 @@ Follows good web scraping / web crawling practices such as legality and politene
 | 11
 | Nov. 20th
 a|
-Introduction
+// Introduction
 
-Logging
+// Logging
 
-Monitoring
+// Monitoring
 
-Searching
+// Searching
 
-Crawling
+// Crawling
 
-Serverless Functions
+// Serverless Functions
 
-// link:00._Course_Material/11._Searching_Logging_Monitoring_Serverless/02._Slides/01._introduction.md[Introduction]
+link:00._Course_Material/11._Searching_Logging_Monitoring_Serverless/02._Slides/01._introduction.md[Introduction]
 
-// link:00._Course_Material/11._Searching_Logging_Monitoring_Serverless/02._Slides/02._logging.md[Logging]
+link:00._Course_Material/11._Searching_Logging_Monitoring_Serverless/02._Slides/02._logging.md[Logging]
 
-// link:00._Course_Material/11._Searching_Logging_Monitoring_Serverless/02._Slides/03._monitoring.md[Monitoring]
+link:00._Course_Material/11._Searching_Logging_Monitoring_Serverless/02._Slides/03._monitoring.md[Monitoring]
 
-// link:00._Course_Material/11._Searching_Logging_Monitoring_Serverless/02._Slides/04._searching.md[Searching]
+link:00._Course_Material/11._Searching_Logging_Monitoring_Serverless/02._Slides/04._searching.md[Searching]
 
-// link:00._Course_Material/11._Searching_Logging_Monitoring_Serverless/02._Slides/05._crawling.md[Crawling]
+link:00._Course_Material/11._Searching_Logging_Monitoring_Serverless/02._Slides/05._crawling.md[Crawling]
 
-// link:00._Course_Material/11._Searching_Logging_Monitoring_Serverless/02._Slides/06._serverless_functions.md[Serverless Functions]
+link:00._Course_Material/11._Searching_Logging_Monitoring_Serverless/02._Slides/06._serverless_functions.md[Serverless Functions]
 
 a|
 link:00._Course_Material/11._Searching_Logging_Monitoring_Serverless/01._Assignments/01._Before/kpi.md[KPI]
@@ -625,27 +625,78 @@ link:00._Course_Material/11._Searching_Logging_Monitoring_Serverless/01._Assignm
 
 link:00._Course_Material/11._Searching_Logging_Monitoring_Serverless/01._Assignments/01._Before/whoknows_variations_monitoring.md[Whoknows variations - Monitoring]
 a|
-// link:00._Course_Material/11._Searching_Logging_Monitoring_Serverless/01._Assignments/02._After/monitoring.md[Monitoring]
+link:00._Course_Material/11._Searching_Logging_Monitoring_Serverless/01._Assignments/02._After/monitoring.md[Monitoring]
 
-// link:00._Course_Material/11._Searching_Logging_Monitoring_Serverless/01._Assignments/02._After/monitoring_PR.md[Monitoring PR]
+link:00._Course_Material/11._Searching_Logging_Monitoring_Serverless/01._Assignments/02._After/monitoring_PR.md[Monitoring PR]
 
-// link:00._Course_Material/11._Searching_Logging_Monitoring_Serverless/01._Assignments/02._After/monitoring_realization.md[Monitoring realization]
+link:00._Course_Material/11._Searching_Logging_Monitoring_Serverless/01._Assignments/02._After/monitoring_realization.md[Monitoring realization]
 
-// link:00._Course_Material/11._Searching_Logging_Monitoring_Serverless/01._Assignments/02._After/try_elk_logging.md[Try ELK logging]
+link:00._Course_Material/11._Searching_Logging_Monitoring_Serverless/01._Assignments/02._After/try_elk_logging.md[Try ELK logging]
 a|
-// Knows how search indexing differs from linear search. Can bring up different things to consider when constructing a ranking algorithm. 
+Knows how search indexing differs from linear search. Can bring up different things to consider when constructing a ranking algorithm. 
 
-// Understands the difference between logging and monitoring. Can argue for the importance of both and give exact use cases for why one would do it.
+Understands the difference between logging and monitoring. Can argue for the importance of both and give exact use cases for why one would do it.
 
-// Can argue the importance of logging and monitoring in a DevOps setup and give examples in relation to the DevOps 8.
+Can argue the importance of logging and monitoring in a DevOps setup and give examples in relation to the DevOps 8.
 
-// Can implement logging in a programming language. 
+Can implement logging in a programming language. 
 
-// Is familiar with a monitoring setup. Knows the difference between push and pull-based monitoring. 
+Is familiar with a monitoring setup. Knows the difference between push and pull-based monitoring. 
 
-// Can argue why a monitoring setup should not run on the same server as the application.
+Can argue why a monitoring setup should not run on the same server as the application.
 
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 12
+| Nov. 27th
+a|
+Introduction
+
+Why Infrastructure as Code
+
+IaC / Configuration Management Tools
+
+Imperative vs Declarative
+
+Terraform - Get Started
+
+Terraform: Limitations / Problems
+
+Terraform - GitHub Provider
+
+// link:00._Course_Material/12._Infrastructure_as_Code/02._Slides/01._introduction.md[Introduction]
+
+// link:00._Course_Material/12._Infrastructure_as_Code/02._Slides/02._why_infrastructure_as_code.md[Why Infrastructure as Code]
+
+// link:00._Course_Material/12._Infrastructure_as_Code/02._Slides/03._iac_configuration_management_tools.md[IaC / Configuration Management Tools]
+
+// link:00._Course_Material/12._Infrastructure_as_Code/02._Slides/04._imperative_vs_declarative.md[Imperative vs Declarative]
+
+// link:00._Course_Material/12._Infrastructure_as_Code/02._Slides/05._terraform_hands-on.md[Terraform - Hands-on]
+
+// link:00._Course_Material/12._Infrastructure_as_Code/02._Slides/06._terraform_limitations_problems.md[Terraform: Limitations / Problems]
+
+// link:00._Course_Material/12._Infrastructure_as_Code/02._Slides/07._terraform_github_provider.md[Terraform - GitHub Provider]
+
+a|
+link:00._Course_Material/12._Infrastructure_as_Code/01._Assignments/01._Before/improve_accessibility.md[Improve Accessibility]
+
+a|
+// link:00._Course_Material/12._Infrastructure_as_Code/01._Assignments/02._After/kea_learn_terraform.md[KEA Learn Terraform]
+
+// link:00._Course_Material/12._Infrastructure_as_Code/01._Assignments/02._After/your_infrastructure_as_code.md[Your Infrastructure as Code]
+
+// link:00._Course_Material/12._Infrastructure_as_Code/01._Assignments/02._After/software_maintenance.md[Software Maintenance]
+a|
+// Understands the problems that Infrastructure as Code solves.
+
+// Knows about how we define Infrastructure as Code and knows how they differ from Configuration Management.
+
+// Can run basic commands in Terraform to provision infrastructure.
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 |===
