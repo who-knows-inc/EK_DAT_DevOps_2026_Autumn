@@ -42,21 +42,21 @@ GROUP_REPOS = [
     },
     
     {
-    "name": "JakobMagnusBardie",
-    "gitLinks": ["https://github.com/JacobMagnusBardie/WhoKnowsWho"],
-    "backend": "http://20.100.207.69:8080/",
-    "frontend": "http://20.100.207.69:8080/",
+    "name": "JacobMagnusBardieAnoep",
+    "gitLinks": ["https://github.com/JacobMagnusBardieAnoep/WhoKnowsWho"],
+    "backend": "https://whoknows.swag.dk/",
+    "frontend": "https://whoknows.swag.dk/",
     "monitoring": "",
     "stack": [
         "Go", 
-        "Go Standard Libary", 
+        "Go Standard Library", 
         "SQLite3"
         ],
     "documentation": [
-        "https://github.com/JacobMagnusBardie/WhoKnowsWho/blob/main/backend/docs/swagger.json"
+        "https://github.com/JacobMagnusBardieAnoep/WhoKnowsWho/blob/main/backend/docs/swagger.json"
         ],
     "sla": "",
-},
+    },
     {
         "name": "GenZM0nks",
         "gitLinks": ["https://github.com/GenZM0nks/AscendingMonk"],
