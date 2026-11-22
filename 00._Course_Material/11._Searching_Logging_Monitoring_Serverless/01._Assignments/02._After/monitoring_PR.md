@@ -1,6 +1,6 @@
 # Monitoring PR
 
-**Type**: Individual
+**Type**: Group Work
 
 **Deadline**: Before the last week's lecture
 
