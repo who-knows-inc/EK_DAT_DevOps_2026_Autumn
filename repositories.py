@@ -35,7 +35,7 @@ GROUP_REPOS = [
         "gitLinks": ["https://github.com/maxiknows/maxi-knows.git"],
         "backend": "https://maxi-knows.dk",
         "frontend": "https://maxi-knows.dk",
-        "monitoring": "",
+        "monitoring": "https://maxi-knows.dk/grafana/d/ad22a25c-8636-4298-a409-25c91cc53c15/maxi-knows-monitoring",
         "stack": ["Go", "Go Standard Library", "SQLite"],
         "documentation": ["https://github.com/maxiknows/maxi-knows/tree/main/docs"],
         "sla": "",
