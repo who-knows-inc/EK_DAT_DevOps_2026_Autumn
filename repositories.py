@@ -15,8 +15,8 @@ GROUP_REPOS = [
         "backend": "https://whoknowsjamx.dk/",
         "frontend": "https://whoknowsjamx.dk/",
         "monitoring": "",
-        "stack": ["Go", "Gin", "SQLite"],
-        "documentation": [],
+        "stack": ["Go", "Gin", "Postgres"],
+        "documentation": ["https://github.com/visionJAMx/whoknows/blob/dev/README.md"],
         "sla": "",
     }, 
     { 
