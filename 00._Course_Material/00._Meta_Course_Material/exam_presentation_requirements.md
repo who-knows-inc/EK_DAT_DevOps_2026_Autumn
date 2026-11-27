@@ -10,7 +10,7 @@ This is taken directly from the source of truth, [Kea Katalog](https://katalog.k
 
 Remember that the allotted time always includes getting into the room, setting up and getting out. I recommend that you try to connect your computer to the projector in the exact room ahead of the exam. Maybe have a backup and have the demo ready on more than one computer.
 
-Only have one laptop open. No timers. No notes.
+No notes. Only have one laptop open. No timers.
 
 ---
 
@@ -24,7 +24,7 @@ Don't do slides. Don't read (each person only has to memorize less than 5 minute
 
 Starting with an agenda brings little value. Just jump straight into the demo.
 
-Focus on demoing every outward facing part. Your project management. Your documentation etc. 
+Focus on demoing every outward facing part. Examples could include: your project management and documentation etc. 
 
 Don't walk through code unless there is a strong reason for it. 
 

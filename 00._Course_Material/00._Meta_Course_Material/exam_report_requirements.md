@@ -33,7 +33,7 @@ The word "report" is just a name. Don't look at this as a document that requires
 
 However, these are the formalities that your report must include:
 
-- Group name (as per `repositories.py`) and student names with KEA mail and GitHub usernames (if applicable).
+- Group name (as per `repositories.py`) and student names with EK mail and GitHub usernames (if applicable).
 
 - Page numbers
 
