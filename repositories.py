@@ -82,7 +82,7 @@ GROUP_REPOS = [
     "gitLinks": ["https://github.com/devops-gruppe-2/search-engine"],
     "backend": "https://whoknows-gruppe2.dk/",
     "frontend": "https://whoknows-gruppe2.dk/",
-    "monitoring": "",
+    "monitoring": "https://dreamycaravan440.grafana.net/public-dashboards/37e50f266f314afa9bb21bf85f9115dc",
     "stack": ["Go", "Gin", "SQLite", "Docker"],
     "documentation": [],
     "sla": "",
